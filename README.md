@@ -14,3 +14,5 @@ get changes to server.  Sync is purely local commit in repo.
 Another local change to this branch followed by a sync to commit it locally.
 
 Another local change to this branch (edit, save, commit all), followed by a sync.
+
+1430 Create local branch edit-readme6 then save, commit all, sync.
