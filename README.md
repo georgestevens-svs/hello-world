@@ -14,3 +14,5 @@ get changes to server.  Sync is purely local commit in repo.
 Another local change to this branch followed by a sync to commit it locally.
 
 Another local change to this branch (edit, save, commit all), followed by a sync.
+
+1445  I have to select the branch I want the edits to apply to in the branches view.
