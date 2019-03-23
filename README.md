@@ -7,3 +7,5 @@ Fetch gets remote changes but does not Merge them.  Merge applies changes from F
 Pull Fetches then Merges changes from remote.
 
 Here is a local change 1 to master.
+
+Here is a change in the local edit-readme5 branch.
