@@ -5,3 +5,5 @@ Does Fetch get this?  Sync Pushes and Fetches.
 
 Fetch gets remote changes but does not Merge them.  Merge applies changes from Fetch.
 Pull Fetches then Merges changes from remote.
+
+Here is a local change 1 to master.
