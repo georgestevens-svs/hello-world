@@ -10,3 +10,5 @@ Here is a local change 1 to master.
 
 Here is a change in the local edit-readme5 branch.  Locally I had to Sync, then Push to
 get changes to server.  Sync is purely local commit in repo.
+
+Another local change to this branch followed by a sync to commit it locally.
