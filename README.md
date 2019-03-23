@@ -8,3 +8,5 @@ After the above commit, and push to remote in VS, I add another line in VS.
 
 1328  After merge of edit-readme2 to master and delete of that branch, in VS I create edit-readme3 branch. And write this message.
 Then in changes I see there is one change and write a commit message and commit all.
+1345 After merge of above and delete of it in VS I create edit-readme4 branch and link it to origin\master 
+and have changes to remote propagated locally.
