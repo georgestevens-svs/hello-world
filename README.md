@@ -12,3 +12,5 @@ Here is a change in the local edit-readme5 branch.  Locally I had to Sync, then 
 get changes to server.  Sync is purely local commit in repo.
 
 Another local change to this branch followed by a sync to commit it locally.
+
+Another local change to this branch (edit, save, commit all), followed by a sync.
